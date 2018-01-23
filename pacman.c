@@ -1,3 +1,5 @@
+#define SAVE_SCREEN
+#define USE_TI89
 #include <tigcclib.h>
 
 unsigned short int box[10] = {
